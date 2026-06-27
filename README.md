@@ -1,5 +1,5 @@
 # USB-hub
-a usb-hub to expand the usb sockets on my computer
+I decided to build a usb-hub that has 1 primary usb-c and 3 other usb-a ports. i want to use this to expand the usb sockets on my computer and be able to connect more devices. Im also planning to use this to connect it to my phone so that i can connect my mouse to it, and even my keyboard if i want.
 
 
 ## Schematics & PCB:
