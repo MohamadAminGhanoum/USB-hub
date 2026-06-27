@@ -8,6 +8,6 @@ a usb-hub to expand the usb sockets on my computer
 
 ## 3d model of pcb:
 <img width="317" height="272" alt="Screenshot 2026-06-27 at 17 10 16" src="https://github.com/user-attachments/assets/a0c8353c-1088-4659-955b-c85396758e6f" />
-<img width="871" height="620" alt="Screenshot 2026-06-27 at 17 10 31" src="https://github.com/user-attachments/assets/5ee0b74b-11c1-4e13-924a-980264ac6aae" />
+<img width="801" height="550" alt="Screenshot 2026-06-27 at 17 10 31" src="https://github.com/user-attachments/assets/5ee0b74b-11c1-4e13-924a-980264ac6aae" />
 
 ## BOM
