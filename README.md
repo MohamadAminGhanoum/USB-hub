@@ -21,4 +21,4 @@ I decided to build a usb-hub that has 1 primary usb-c and 3 other usb-a ports. i
 |220 ohm resistor          |0    |1    |self sourced                                                                                                                                                                                                                                  |
 |CoreChips SL2.1A          |1.35 |5    |https://www.lcsc.com/product-detail/C6798314.html?s_z=n_q_CoreChips%2520SL2.1A&spm=wm.fly.bg.0.stp&lcsc_vid=FAAKVgBSElEKVVRRQlVbVAdfRlFXUlFfRwBeAgcCT1kxVlNeRVRZVF1UQVFZUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhcX11VWQkaCgg%3D|
 |PCB          |4.5    |5    |JLCPCB                                                                                                                                                                                                                                  |
-
+|TOTAL cost with shipping:          |21.5 usd    |    | 
